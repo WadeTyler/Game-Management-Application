@@ -1,5 +1,5 @@
-##### Game Management Application
-A Game Management Inventory Application that users can use to store their own library of games and manage them.
+# Game Management Application
+A Game Management Inventory Application that users can use to manage and store their own library of games.
 
 ### Tech Stack
 JavaScript, Node.js, Express, Node.js, Postgres, React.
